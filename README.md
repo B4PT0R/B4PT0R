@@ -6,7 +6,7 @@ I'm a math-head and self-taught python coding enthusiast.
 
 I’m interested in abstract and applied math, machine learning, data science, LLMs and anything related to python.
 
-I'm currently working mostly on my StreamPy / Pandora projects which are about integrating LLMs and Streamlit's rich input/output capabilities to an interactive web-based python console / minimalistic IDE.
+I'm currently working mostly on my Pandora project which is about integrating Streamlit's rich input/output capabilities and OpenAI latest GPT4 AI model to an interactive web-based python console.
 
 I've been working on these solo on my free time, but I think these projects offer something innovative and could benefit greatly from community contributions as much as I'd like to get in touch with similarly minded people to share ideas and get to work together.
 
